@@ -1,5 +1,5 @@
-# [Qwords Landing Page]
-
+# Qwords Landing Page
+By Seto Aryotomo
 ----------
 
 # Getting started
@@ -11,11 +11,11 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
+    git clone https://github.com/setoaryotomo/rakamin-qwords.git
 
 Switch to the repo folder
 
-    cd laravel-realworld-example-app
+    cd rakamin-qwords
 
 Install all the dependencies using composer
 
@@ -34,10 +34,3 @@ Start the local development server
     php artisan serve
 
 ----------
-
-# Testing API
-
-Run the laravel development server
-
-    php artisan serve
-
