@@ -1,6 +1,9 @@
 # Final Project Qwords Fullstack Developer Project Based Internship
 By Seto Aryotomo
 ----------
+Tech Stack :
+- Laravel 10
+- PHP 8.2.12
 
 # Getting started
 
